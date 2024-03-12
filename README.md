@@ -1,2 +1,3 @@
 # Extract-pixel-values-from-geotiff
 This python code is developed to extract pixel value from geotiff file using lat and long for specific location.
+Sometimes, a researcher needs to extract pixel values from a geotiff file using the latitude and longitude for a specific location. Here, the latitude and longitude values are taken from the user, then the code converts the provided lat long coordinate system according to the geotiff file. This code extracts multiple location values from different geotiff files. The code generates an Excel sheet of output pixel values along with geotiff filename and location name.
